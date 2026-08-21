@@ -10,6 +10,4 @@ print(neljäs)
 print(neljäs.real)
 print(neljäs.imag)
 
-jakojaannos = input ("anna joku desimaaliluku:")
-liukuluku = float(jakojaannos) % 50
-print (f"tässä ylijäämä luku pyörristyksestä: {liukuluku}")
+
