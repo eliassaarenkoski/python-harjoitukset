@@ -2,14 +2,15 @@
 
 **Elias Saarenkoski**
 
-## Moduuli 1
+## Moduuli 1 ja 2
 
-Tein tehtävät 1 ja 2.
+tehty
 
-## Moduuli 2
+## Moduuli 3
 
-Tein tehtävät 1, 2 ja 3.
+Tein tehtävät 1-6
 
-Tehtävän 4 tein osittain, mutta ongelmaksi jäi pelkkien grammojen laskeminen oikein.
+## Moduuli 4
 
-## Moduuli 3 ja niin edelleen...
+tein moduulin 4 kaikki tehtävät
+

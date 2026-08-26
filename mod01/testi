@@ -1,0 +1,5 @@
+nimi, ika = input("Anna nimi ja ikä: ").split()
+ika = int(ika)
+
+print (f"terve {nimi} olet {ika}:inen")
+
