@@ -20,3 +20,4 @@ tein moduulin 5 kaikki tehtävät
 
 ## Moduuli 6
 
+moduuli 6 tehty
