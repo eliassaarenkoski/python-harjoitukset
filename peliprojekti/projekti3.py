@@ -11,9 +11,7 @@ lisays = []
 def lasku1():
     luku1 = random.randint(2, 10)
     luku2 = random.randint(2, 10)
-
     vastaus = float(input(f"Laske lausekkeen arvo {luku1} * {luku2} = : "))
-
     if vastaus == luku1 * luku2:
         print("Vastaus on oikein!")
     else:
@@ -21,9 +19,7 @@ def lasku1():
 def lasku2():
     luku3 = random.randint(5, 15)
     luku4 = random.randint(3, 4)
-
     vastaus = float(input(f"Laske lausekkeen arvo {luku3} / {luku4} = : "))
-
     if vastaus == luku3 / luku4:
         print("Vastaus on oikein!")
     else:
