@@ -21,3 +21,9 @@ tein moduulin 5 kaikki tehtävät
 ## Moduuli 6
 
 moduuli 6 tehty
+
+## Moduuli 7
+
+moduuli 7 tehty
+
+## Moduuli 8
