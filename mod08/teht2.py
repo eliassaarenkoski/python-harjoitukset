@@ -17,7 +17,7 @@ nimet = set()
 nimi = input("Anna nimi tai lopeta painamalla Enter: ")
 while nimi != "":
     if nimi in nimet:
-        print("Aiemmin syötetty nimi")
+        print("Nimi löytyy jo listasta! ")
     else:
         print("Uusi nimi")
         nimet.add(nimi)

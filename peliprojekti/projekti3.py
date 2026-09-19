@@ -16,6 +16,7 @@ def lasku1():
         print("Vastaus on oikein!")
     else:
         print("Vastaus on väärin!")
+        return
 def lasku2():
     luku3 = random.randint(5, 15)
     luku4 = random.randint(3, 4)

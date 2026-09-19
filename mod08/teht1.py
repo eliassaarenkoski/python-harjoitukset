@@ -3,7 +3,7 @@
 # Määritellään kukin vuodenaika kolmen kuukauden mittaiseksi siten, että joulukuu on ensimmäinen talvikuukausi.
 
 vuodenajat = ("talvi","kevät","kevät","kevät","kesä","kesä","kesä","syksy","syksy","syksy","talvi","talvi")
-
 kuukausi = int(input("anna kuukausi 1-12 : "))
-
-print(vuodenajat[kuukausi -1 ])
+while vuodenajat != "":
+    print(vuodenajat[kuukausi -1 ])
+    kuukausi = int(input("anna kuukausi 1-12 : "))
