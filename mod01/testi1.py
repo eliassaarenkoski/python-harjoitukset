@@ -1,7 +1,10 @@
-arvo = inn(input("annaluku: "))
-while True:
-    if arvo == 1:
-        print ("annoin ykkösen")
-    elif arvo == 2:
-        print("annoit kakkosen")
-   
+def tervehdi(kerrat,kerta):
+    for i in range(kerrat,kerta):
+        print("Hyvää päivää " + str(i) + ". kerran")
+    return
+
+print("Päivä alkaa tervehdyksillä.")
+tervehdi(1,6)
+print("Tervehditään lisää.")
+tervehdi(1,3)
+  
