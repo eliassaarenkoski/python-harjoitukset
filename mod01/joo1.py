@@ -1,2 +1,6 @@
-x=10
-print(x<5)
+def tervehdi(maara):
+    for x in range(maara):
+        print("Moi!")
+    return
+
+tervehdi(6)
