@@ -1,0 +1,4 @@
+Tervetuloa Gladiaattori peliin. Joudut taistelemaan areenalla ja ostamaan tarvikkeita, jotta pääset pidemmälle peliin.
+Peli on tekstimuotoinen peli, joten luethan tarkasti mitä näytöllä lukee. Näin voit voittaa pelin nopeammin.
+Pelissä seurataan valintoijen numeroita, jotka toimivat pelaajan syötteinä. Eli syötäthän vain numeroita.
+Kiitos ja onnea peliin.
