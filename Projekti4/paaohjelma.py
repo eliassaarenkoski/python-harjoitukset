@@ -223,10 +223,10 @@ else:
     ehto = paavalikko()
     while ehto != "4":
         if ehto == "1":
-            with open("readme.md", "r", encoding="utf-8") as tiedosto:
-                ohjeet = tiedosto.read()
-                print(ohjeet)
-                input("\nPaina Enter palataksesi päävalikkoon...")
+            with open("readme.md", "r", encoding="utf-8") as f:
+                ohjeet = f.read()
+            print(ohjeet)
+            input("\nPaina Enter palataksesi päävalikkoon...")
         elif ehto == "2":
             pelaaja = uusi_kayttäja()
             print("tervetuloa peliin!. Seuraavaksi voit läpäistä areenoita, käydä kaupassa ja katsoa hahmosi tilastoja. Onnea matkaan soturi!")
